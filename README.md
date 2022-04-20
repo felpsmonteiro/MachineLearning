@@ -5,7 +5,7 @@
 Tabela de Conteúdos
 =================
 <!--ts-->
-   * [Lista 01](#Link)
+   * [Lista 01](#https://github.com/felpsmonteiro/MachineLearning/tree/main/Lista01)
       * [Linear Regression](#Link) 
       * [Linear Regression - GD](#Link)
       * [Linear Regression - SGD](#Link) 
