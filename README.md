@@ -5,7 +5,7 @@
 Tabela de Conteúdos
 =================
 <!--ts-->
-   * [Lista 01](#Lista01)
+   * [Lista 01](#MachineLearning/Lista01/)
       * [Linear Regression](#Link) 
       * [Linear Regression - GD](#Link)
       * [Linear Regression - SGD](#Link) 
