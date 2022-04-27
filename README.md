@@ -9,4 +9,6 @@ Tabela de Conteúdos
       * [Linear Regression](#Link) 
       * [Linear Regression - GD](#Link)
       * [Linear Regression - SGD](#Link) 
+      * [Polynomial Regression](#Link)
+      * [Polynomial Regression with L2](#Link)
 <!--te-->
