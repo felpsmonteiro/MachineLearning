@@ -5,7 +5,7 @@
 Tabela de Conteúdos
 =================
 <!--ts-->
-   * [Lista 01](/tree/main/Lista01)
+   * [Lista 01](#Link)
       * [Linear Regression](#Link) 
       * [Linear Regression - GD](#Link)
       * [Linear Regression - SGD](#Link) 
