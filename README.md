@@ -6,7 +6,7 @@ Tabela de Conteúdos
 =================
 <!--ts-->
    * [Lista 01](#Link)
-      * [Linear Regression](#Link) 
+      * [Linear Regression](#/blob/main/Lista01/AMA%20-%20Lista01.ipynb) 
       * [Linear Regression - GD](#Link)
       * [Linear Regression - SGD](#Link) 
       * [Polynomial Regression](#Link)
