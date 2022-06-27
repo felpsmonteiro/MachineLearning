@@ -5,10 +5,42 @@
 Tabela de Conteúdos
 =================
 <!--ts-->
-   * [Lista 01](#Link)
-      * [Linear Regression](#/blob/main/Lista01/AMA%20-%20Lista01.ipynb) 
+   * [Assignment 01](#Link)
+      * [Linear Regression](#Link) 
       * [Linear Regression - GD](#Link)
       * [Linear Regression - SGD](#Link) 
       * [Polynomial Regression](#Link)
       * [Polynomial Regression with L2](#Link)
+   
+   * [Assignment 02](#Link)
+      * [Logist Regression](#Link) 
+      * [Gaussian Discriminant Analysis](#Link)
+      * [Gaussian Naive Bayes](#Link) 
+      * [Metrics - Accuracy, Recall, Precision and F1-Score](#Link)
+   
+   * [Assignment 03](#Link)
+      * [KNN](#Link) 
+      * [Decision Tree](#Link)
+      * [Metrics - Accuracy, Recall, Precision and F1-Score](#Link)
+
+   * [Assignment 04](#Link)
+      * [KNN](#Link) 
+      * [Decision Tree](#Link)
+      * [Metrics - Accuracy, Recall, Precision and F1-Score](#Link)
+      
+   * [Assignment 05](#Link)
+      * [Neural Networks](#Link) 
+      * [MLP - Multiayer Percptron](#Link)
+      * [ROC and UAC Curves](#Link)
+      * [Metrics - Accuracy, Recall, Precision and F1-Score](#Link)
+      
+   * [Assignment 05](#Link)
+      * [Support Vector Machine - SVM](#Link) 
+      * [Ensembles](#Link)
+      * [ROC Curve](#Link)
+      * [Metrics - Accuracy, Recall, Precision and F1-Score](#Link)
+   
+   * [Assignment 06](#Link)
+      * [M-Means](#Link) 
+      * [PCA](#Link)
 <!--te-->
