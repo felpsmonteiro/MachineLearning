@@ -23,12 +23,8 @@ Tabela de Conteúdos
       * [Decision Tree](#Link)
       * [Metrics - Accuracy, Recall, Precision and F1-Score](#Link)
 
-   * [Assignment 04](#Link)
-      * [KNN](#Link) 
-      * [Decision Tree](#Link)
-      * [Metrics - Accuracy, Recall, Precision and F1-Score](#Link)
       
-   * [Assignment 05](#Link)
+   * [Assignment 04](#Link)
       * [Neural Networks](#Link) 
       * [MLP - Multiayer Percptron](#Link)
       * [ROC and UAC Curves](#Link)
