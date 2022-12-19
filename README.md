@@ -1,6 +1,6 @@
 # Machine Learning
 
-<p align="left">This repository is dedicated to centralize all solved assignments on Machine Learning subject on Master's Degree at Universidade Federal do Ceará </p>
+<p align="left">This repository is dedicated to save all solved assignments on Machine Learning subject on Master's Degree at Universidade Federal do Ceará </p>
 
 Tabela de Conteúdos
 =================
