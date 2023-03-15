@@ -5,7 +5,7 @@
 Tabela de Conteúdos
 =================
 <!--ts-->
-   * [Assignment 01](#Link)
+   * [Assignment 01](/tree/main/lista_1_ama)
       * [Linear Regression](#Link) 
       * [Linear Regression - GD](#Link)
       * [Linear Regression - SGD](#Link) 
